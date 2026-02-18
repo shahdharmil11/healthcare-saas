@@ -3,6 +3,14 @@
     {
       "source": "/api",
       "destination": "/api/index.py"
+    },
+    {
+      "source": "/api/check-subscription",
+      "destination": "/api/check-subscription.py"
+    },
+    {
+      "source": "/api/webhooks",
+      "destination": "/api/webhooks.py"
     }
   ]
 }
